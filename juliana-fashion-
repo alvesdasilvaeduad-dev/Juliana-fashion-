@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Juliana Fashion | Moda, Calçados e Acessórios em Brazlândia - DF</title>
+<meta name="description" content="Juliana Fashion em Brazlândia-DF: moda feminina, masculina e infantil, calçados e acessórios. Aberta de segunda a sábado, das 8h às 20h. Ligue (61) 3479-2873.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://seudominio.com.br/">
+<meta name="theme-color" content="#1e1e1e">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:title" content="Juliana Fashion | Calçados & Moda em Brazlândia-DF">
+<meta property="og:description" content="Moda feminina, masculina e infantil, calçados e acessórios. Venha nos visitar!">
+<meta property="og:image" content="https://seudominio.com.br/og-image.jpg">
+<meta property="og:image:alt" content="Logotipo da Juliana Fashion em dourado sobre fundo escuro">
+<meta property="og:url" content="https://seudominio.com.br/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='50' fill='%231e1e1e'/%3E%3Ctext x='50' y='66' font-size='54' text-anchor='middle' fill='%23e7c845' font-family='serif' font-style='italic'%3EJ%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Pinyon+Script&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+<!-- Google Analytics 4: troque G-XXXXXXXXXX pelo seu ID -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-XXXXXXXXXX');</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"ClothingStore","name":"Juliana Fashion","description":"Moda feminina, masculina e infantil, calçados e acessórios em Brazlândia-DF.","url":"https://seudominio.com.br/","telephone":"+556134792873","image":"https://seudominio.com.br/og-image.jpg","sameAs":["https://www.instagram.com/julianafashion37/"],"address":{"@type":"PostalAddress","streetAddress":"Q. 37 conj. E Lote 21, número 21, Vila São José","addressLocality":"Brazlândia","addressRegion":"DF","postalCode":"72737-005","addressCountry":"BR"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"}],"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":"35"}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"Qual o horário de funcionamento?","acceptedAnswer":{"@type":"Answer","text":"De segunda a sábado, das 8h às 20h. Aos domingos a loja fica fechada."}},
+{"@type":"Question","name":"Onde fica a Juliana Fashion?","acceptedAnswer":{"@type":"Answer","text":"Q. 37 conj. E Lote 21, número 21, Vila São José, Brazlândia, Brasília - DF, CEP 72737-005."}},
+{"@type":"Question","name":"Quais produtos a loja oferece?","acceptedAnswer":{"@type":"Answer","text":"Roupas, calçados e acessórios para os públicos feminino, masculino e infantil."}},
+{"@type":"Question","name":"Como posso falar com a loja?","acceptedAnswer":{"@type":"Answer","text":"Pelo telefone (61) 3479-2873, pelo Instagram @julianafashion37 ou pelo formulário deste site."}},
+{"@type":"Question","name":"Em quanto tempo vocês respondem?","acceptedAnswer":{"@type":"Answer","text":"Respondemos mensagens e formulários em até 1 dia útil."}}]}
+</script>
+<style>
+:root{--bg:#1e1e1e;--fg:#ece8dd;--mu:#9b978c;--gd:#e7c845;--gf:#1e1e1e;--ln:#34342f;--ok:#6fcf97;--bad:#ef8b83;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(prefers-color-scheme:light){:root:not([data-theme="dark"]){--bg:#faf8f2;--fg:#232323;--mu:#6f6b60;--gd:#8f7208;--gf:#fff;--ln:#e4dfd0;--ok:#1b7f4b;--bad:#b3261e}}
+:root[data-theme="light"]{--bg:#faf8f2;--fg:#232323;--mu:#6f6b60;--gd:#8f7208;--gf:#fff;--ln:#e4dfd0;--ok:#1b7f4b;--bad:#b3261e}
+*{box-sizing:border-box}html{height:100%;scroll-padding-top:70px;scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--fg);font:300 16px/1.7 Montserrat,system-ui,sans-serif}
+h1,h2,h3{font-weight:300;margin:0 0 .6em;line-height:1.25}
+h2{font-size:.8rem;letter-spacing:.3em;text-transform:uppercase;color:var(--gd);font-weight:600;position:relative;padding-bottom:14px;margin-bottom:28px}
+h2::after{content:"";position:absolute;left:0;bottom:0;height:1px;width:0;background:var(--gd);transition:width 1s .2s}
+.in h2::after,h2.in::after{width:44px}
+a{color:var(--gd)}
+.i{display:inline-flex;vertical-align:-.28em}.i svg{width:1.2em;height:1.2em;fill:none;stroke:currentColor;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round}
+.w{max-width:880px;margin:0 auto;padding:0 22px}
+section{padding:56px 0;border-top:1px solid var(--ln)}
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--ln)}
+header .w{display:flex;align-items:center;justify-content:space-between;height:60px}
+.logo{display:flex;align-items:baseline;gap:8px;text-decoration:none;color:var(--fg)}
+.sc{font:400 1.7rem 'Pinyon Script',cursive,Georgia;color:var(--gd)}
+.logo small,.fs{font-size:.62rem;letter-spacing:.35em;font-weight:400;color:var(--fg)}
+nav{display:flex;gap:22px}nav a{color:var(--mu);text-decoration:none;font-size:.72rem;letter-spacing:.15em;text-transform:uppercase;position:relative;transition:color .3s}
+nav a::after{content:"";position:absolute;left:0;bottom:-4px;height:1px;width:0;background:var(--gd);transition:width .3s}nav a:hover{color:var(--gd)}nav a:hover::after{width:100%}
+.btn{display:inline-flex;gap:10px;align-items:center;justify-content:center;padding:13px 24px;border:1px solid var(--gd);background:var(--gd);color:var(--gf);font:600 .72rem Montserrat,sans-serif;letter-spacing:.18em;text-transform:uppercase;text-decoration:none;cursor:pointer;transition:transform .3s,background .3s,color .3s}
+.btn:hover{transform:translateY(-2px)}.btn.o{background:transparent;color:var(--gd)}.btn.o:hover{background:var(--gd);color:var(--gf)}
+.row{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}
+.hero{padding:84px 0 70px;border:0}
+.hero .w>*{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+.hero .w>:nth-child(2){animation-delay:.15s}.hero .w>:nth-child(3){animation-delay:.3s}.hero .w>:nth-child(4){animation-delay:.45s}.hero .w>:nth-child(5){animation-delay:.6s}
+.big{font:400 clamp(4rem,19vw,8rem)/1 'Pinyon Script',cursive,Georgia;color:var(--gd);margin:18px 0 0;display:block}
+.fs{display:block;margin:-4px 0 26px 6px;letter-spacing:.6em}
+.tag{color:var(--mu);max-width:440px;margin:0}
+.chips{display:flex;gap:18px;flex-wrap:wrap;font-size:.78rem;color:var(--mu)}
+.chips span{display:inline-flex;gap:8px;align-items:center}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--mu)}.open .dot{background:var(--ok);animation:pulse 2s infinite}.closed .dot{background:var(--bad)}
+.stars{position:relative;display:inline-block;white-space:nowrap;color:var(--gd)}
+.stars .b{color:var(--ln)}.stars .b svg{fill:var(--ln);stroke:none}
+.stars .f{position:absolute;left:0;top:0;overflow:hidden;width:0;transition:width 1.4s .3s cubic-bezier(.2,.7,.2,1)}.stars .f svg{fill:currentColor;stroke:none}
+.in .stars .f,.stars.in .f{width:var(--w)}
+.ico3{display:grid;gap:28px;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));margin-top:34px}
+.ico3 .i svg{width:30px;height:30px;stroke:var(--gd);stroke-width:1.1}.ico3 h3{margin:10px 0 4px;font-size:1rem;font-weight:400}.ico3 p{margin:0;color:var(--mu);font-size:.9rem}
+.lead{max-width:560px;color:var(--mu);margin:0}
+table{width:100%;max-width:440px;border-collapse:collapse}td{padding:11px 0;border-bottom:1px solid var(--ln);font-size:.92rem}td:last-child{text-align:right}tr.today{color:var(--gd);font-weight:600}
+.addr{display:flex;gap:16px;align-items:flex-start}.addr .i svg{width:28px;height:28px;stroke:var(--gd)}.addr p{margin:0}
+.score{font:200 5rem/1 Montserrat,sans-serif;color:var(--gd)}
+.rate{display:flex;gap:26px;align-items:center;flex-wrap:wrap}.rate .stars svg{width:24px;height:24px;margin-right:3px}
+details{border-bottom:1px solid var(--ln);padding:16px 0}summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;gap:12px;font-weight:400}
+summary::-webkit-details-marker{display:none}summary .i{color:var(--gd);transition:transform .3s}details[open] summary .i{transform:rotate(45deg)}
+details p{margin:10px 0 0;color:var(--mu);animation:fade .4s}
+label{display:block;font-size:.72rem;letter-spacing:.15em;text-transform:uppercase;color:var(--mu);margin-bottom:18px}
+input,textarea{width:100%;padding:10px 0;border:0;border-bottom:1px solid var(--ln);background:transparent;color:var(--fg);font:300 1rem Montserrat,sans-serif;border-radius:0;outline:0;transition:border-color .3s}
+input:focus,textarea:focus{border-color:var(--gd)}
+.crumbs{font-size:.78rem;color:var(--mu);padding:16px 0}.crumbs a{color:var(--mu)}
+footer{border-top:1px solid var(--ln);padding:34px 0 100px;color:var(--mu);font-size:.8rem}
+.bar{display:none;position:fixed;left:0;right:0;bottom:0;z-index:9;gap:8px;padding:10px 12px calc(10px + env(safe-area-inset-bottom,0px));background:var(--bg);border-top:1px solid var(--ln)}.bar a{flex:1;padding:12px 6px}
+.pg{display:none}.pg.on{display:block;animation:fade .6s}
+.mid{text-align:center;padding:90px 0}.mid .i svg{width:54px;height:54px;stroke:var(--gd);stroke-width:1}.mid .row{justify-content:center}
+.rv{opacity:0;transform:translateY(22px);transition:opacity .9s,transform .9s cubic-bezier(.2,.7,.2,1)}.rv.in{opacity:1;transform:none}
+@keyframes up{from{opacity:0;transform:translateY(26px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes pulse{50%{box-shadow:0 0 0 6px transparent;opacity:.5}}
+@media(max-width:720px){.bar{display:flex}nav{display:none}.hero{padding-top:54px}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.rv,.hero .w>*{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+<symbol id="phone" viewBox="0 0 24 24"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></symbol>
+<symbol id="pin" viewBox="0 0 24 24"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></symbol>
+<symbol id="insta" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".6"/></symbol>
+<symbol id="clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+<symbol id="star" viewBox="0 0 24 24"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></symbol>
+<symbol id="hanger" viewBox="0 0 24 24"><path d="M12 9V8a2.5 2.5 0 1 0-2.5-2.5M12 9l9 6.5a1.4 1.4 0 0 1-.8 2.5H3.8A1.4 1.4 0 0 1 3 15.500z"/></symbol>
+<symbol id="shoe" viewBox="0 0 24 24"><path d="M3 17v-6l4 1.500L9.500 8l3.500 3c3.500.6 8 1.300 8 5.300V17z"/><path d="M3 20h18"/></symbol>
+<symbol id="bag" viewBox="0 0 24 24"><rect x="4" y="8" width="16" height="12" rx="2"/><path d="M9 8V7a3 3 0 0 1 6 0v1"/></symbol>
+<symbol id="plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+<symbol id="send" viewBox="0 0 24 24"><path d="M4 12l16-8-6 16-3-6.500z"/></symbol>
+<symbol id="check" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M8 12.500l3 3 5-6"/></symbol>
+<symbol id="lost" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M9 9l6 6M15 9l-6 6"/></symbol>
+</defs></svg>
+
+<header><div class="w"><a class="logo" href="#/" aria-label="Juliana Fashion, início"><span class="sc">Juliana</span><small>FASHION</small></a>
+<nav aria-label="Principal"><a href="#/" data-s="sobre">Sobre</a><a href="#/" data-s="horarios">Horários</a><a href="#/" data-s="local">Local</a><a href="#/" data-s="avaliacoes">Avaliações</a><a href="#/" data-s="contato">Contato</a></nav></div></header>
+
+<main>
+<div class="w"><div class="crumbs" id="crumbs" aria-label="Você está em"></div></div>
+
+<div class="pg" id="home">
+<div class="hero"><div class="w">
+<div class="chips"><span id="status"><i class="dot"></i><b id="stt" style="font-weight:400">Verificando…</b></span><span><i data-i="star"></i>4,7 · 35 avaliações no Google</span></div>
+<h1 style="margin:0"><span class="big">Juliana</span><span class="fs">FASHION</span></h1>
+<p class="tag">Calçados &amp; moda feminina, masculina e infantil. Brazlândia, DF.</p>
+<div class="row"><a class="btn" href="tel:+556134792873"><i data-i="phone"></i>Ligar agora</a><a class="btn o" href="https://www.google.com/maps/dir/?api=1&destination=Juliana+Fashion+Q.+37+conj.+E+Lote+21+Vila+S%C3%A3o+Jos%C3%A9+Brazl%C3%A2ndia+DF" target="_blank" rel="noopener"><i data-i="pin"></i>Como chegar</a><a class="btn o" href="https://www.instagram.com/julianafashion37/" target="_blank" rel="noopener"><i data-i="insta"></i>Instagram</a></div>
+</div></div>
+
+<section id="sobre"><div class="w rv"><h2>Sobre a loja</h2>
+<p class="lead">Moda para toda a família em um só lugar. Feminina, masculina e infantil, com roupas, calçados e acessórios.</p>
+<div class="ico3"><div><i data-i="hanger"></i><h3>Roupas</h3><p>Looks para o dia a dia e ocasiões.</p></div><div><i data-i="shoe"></i><h3>Calçados</h3><p>Para mulheres, homens e crianças.</p></div><div><i data-i="bag"></i><h3>Acessórios</h3><p>Os detalhes que completam.</p></div></div></div></section>
+
+<section id="horarios"><div class="w rv"><h2>Horário</h2>
+<table id="hrs"></table><p style="font-size:.8rem;color:var(--mu)"><i data-i="clock"></i> O horário pode mudar em feriados.</p></div></section>
+
+<section id="local"><div class="w rv"><h2>Como chegar</h2>
+<div class="addr"><i data-i="pin"></i><p>Q. 37 conj. E Lote 21, nº 21, Vila São José<br>Brazlândia, Brasília - DF, 72737-005</p></div>
+<div class="row"><a class="btn" href="https://www.google.com/maps/dir/?api=1&destination=Juliana+Fashion+Q.+37+conj.+E+Lote+21+Vila+S%C3%A3o+Jos%C3%A9+Brazl%C3%A2ndia+DF" target="_blank" rel="noopener">Traçar rota</a><a class="btn o" href="https://www.google.com/maps/search/?api=1&query=Juliana+Fashion+Q.+37+conj.+E+Lote+21+Vila+S%C3%A3o+Jos%C3%A9+Brazl%C3%A2ndia+DF" target="_blank" rel="noopener">Abrir no mapa</a></div></div></section>
+
+<section id="avaliacoes"><div class="w rv"><h2>Avaliações</h2>
+<div class="rate"><div class="score">4,7</div><div><span class="stars" data-r="94" aria-label="4,7 de 5 estrelas"></span><p style="margin:6px 0 0;color:var(--mu)">35 avaliações reais no Google</p></div></div>
+<div class="row"><a class="btn o" href="https://www.google.com/maps/search/?api=1&query=Juliana+Fashion+Brazl%C3%A2ndia+DF" target="_blank" rel="noopener">Ler avaliações</a></div></div></section>
+
+<section id="faq"><div class="w rv"><h2>Dúvidas frequentes</h2>
+<details><summary>Qual o horário de funcionamento?<i data-i="plus"></i></summary><p>De segunda a sábado, das 8h às 20h. Aos domingos a loja fica fechada.</p></details>
+<details><summary>Onde fica a Juliana Fashion?<i data-i="plus"></i></summary><p>Q. 37 conj. E Lote 21, nº 21, Vila São José, Brazlândia, Brasília - DF, CEP 72737-005.</p></details>
+<details><summary>Quais produtos a loja oferece?<i data-i="plus"></i></summary><p>Roupas, calçados e acessórios para os públicos feminino, masculino e infantil.</p></details>
+<details><summary>Como posso falar com a loja?<i data-i="plus"></i></summary><p>Pelo telefone (61) 3479-2873, pelo Instagram @julianafashion37 ou pelo formulário abaixo.</p></details>
+<details><summary>Em quanto tempo vocês respondem?<i data-i="plus"></i></summary><p>Respondemos mensagens e formulários em até 1 dia útil.</p></details></div></section>
+
+<section id="contato"><div class="w rv" style="max-width:560px"><h2>Contato</h2>
+<p class="lead" style="margin-bottom:26px">Respondemos em até 1 dia útil.</p>
+<form id="f"><label>Nome<input required name="nome" autocomplete="name"></label><label>Telefone ou e-mail<input required name="contato" autocomplete="tel"></label><label>Mensagem<textarea required name="msg" rows="3"></textarea></label><button class="btn" type="submit"><i data-i="send"></i>Enviar</button></form>
+<p style="margin-top:28px;font-size:.9rem"><i data-i="phone"></i> <a href="tel:+556134792873">(61) 3479-2873</a> &nbsp; <i data-i="insta"></i> <a href="https://www.instagram.com/julianafashion37/" target="_blank" rel="noopener">@julianafashion37</a></p></div></section>
+</div>
+
+<div class="pg" id="privacidade"><div class="w" style="padding-bottom:50px;max-width:680px">
+<h1 style="font-size:1.8rem">Política de Privacidade</h1>
+<p>A Juliana Fashion respeita a Lei Geral de Proteção de Dados (LGPD, Lei 13.709/2018).</p>
+<h3>Dados que coletamos</h3><p>Nome, telefone ou e-mail e a mensagem enviada pelo formulário. Usamos também o Google Analytics para medir acessos de forma estatística, com cookies.</p>
+<h3>Para que usamos</h3><p>Apenas para responder ao seu contato e melhorar o site. Não vendemos seus dados.</p>
+<h3>Seus direitos</h3><p>Você pode pedir acesso, correção ou exclusão dos seus dados pelo telefone (61) 3479-2873 ou pelo Instagram @julianafashion37.</p>
+<h3>Atualizações</h3><p>Esta política pode mudar. Última revisão: outubro de 2026.</p></div></div>
+
+<div class="pg" id="obrigado"><div class="w mid"><i data-i="check"></i><h1 style="font-size:2rem;margin-top:18px">Obrigado pelo contato</h1>
+<p class="lead" style="margin:0 auto">Recebemos sua mensagem e responderemos em até 1 dia útil.</p>
+<div class="row"><a class="btn" href="#/">Voltar ao início</a><a class="btn o" href="https://www.instagram.com/julianafashion37/" target="_blank" rel="noopener"><i data-i="insta"></i>Seguir</a></div></div></div>
+
+<div class="pg" id="e404"><div class="w mid"><i data-i="lost"></i><div class="score" style="margin-top:14px">404</div><h1 style="font-size:1.6rem">Página não encontrada</h1>
+<p class="lead" style="margin:0 auto">O endereço não existe ou foi movido.</p>
+<div class="row"><a class="btn" href="#/">Ir para o início</a><a class="btn o" href="tel:+556134792873"><i data-i="phone"></i>Ligar</a></div></div></div>
+</main>
+
+<footer><div class="w"><span class="sc" style="font-size:1.4rem">Juliana</span> <span class="fs" style="display:inline;margin:0">FASHION</span><br>Q. 37 conj. E Lote 21, nº 21, Vila São José, Brazlândia, Brasília - DF, 72737-005<br>(61) 3479-2873 · <a href="#/privacidade">Política de Privacidade</a> · © 2026 Juliana Fashion</div></footer>
+
+<div class="bar" role="navigation" aria-label="Ações rápidas"><a class="btn" href="tel:+556134792873" aria-label="Ligar"><i data-i="phone"></i>Ligar</a><a class="btn o" href="https://www.google.com/maps/dir/?api=1&destination=Juliana+Fashion+Q.+37+conj.+E+Lote+21+Vila+S%C3%A3o+Jos%C3%A9+Brazl%C3%A2ndia+DF" target="_blank" rel="noopener" aria-label="Rota"><i data-i="pin"></i>Rota</a><a class="btn o" href="https://www.instagram.com/julianafashion37/" target="_blank" rel="noopener" aria-label="Instagram"><i data-i="insta"></i></a></div>
+
+<script>
+var R={'/':['Juliana Fashion | Moda, Calçados e Acessórios em Brazlândia - DF','Moda feminina, masculina e infantil, calçados e acessórios em Brazlândia-DF. Segunda a sábado, 8h às 20h. Ligue (61) 3479-2873.','home',1],
+'/privacidade':['Política de Privacidade | Juliana Fashion','Saiba como a Juliana Fashion coleta, usa e protege seus dados conforme a LGPD.','privacidade',1],
+'/obrigado':['Obrigado pelo contato | Juliana Fashion','Recebemos sua mensagem. A Juliana Fashion responde em até 1 dia útil.','obrigado',0]};
+var N={'/privacidade':'Política de Privacidade','/obrigado':'Obrigado'};
+function icons(){document.querySelectorAll('i[data-i]').forEach(function(e){e.className='i';e.innerHTML='<svg><use href="#'+e.dataset.i+'"/></svg>';e.removeAttribute('data-i')})}
+icons();
+document.querySelectorAll('.stars[data-r]').forEach(function(s){var u='<svg style="width:24px;height:24px;margin-right:3px"><use href="#star"/></svg>',x='';for(var k=0;k<5;k++)x+='<i class="i">'+u+'</i>';s.innerHTML='<span class="b">'+x+'</span><span class="f" style="--w:'+s.dataset.r+'%">'+x+'</span>'});
+var io='IntersectionObserver'in window?new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{threshold:.15}):null;
+document.querySelectorAll('.rv').forEach(function(e){io?io.observe(e):e.classList.add('in')});
+function meta(n,v){var m=document.querySelector('meta[name="'+n+'"]');if(m)m.setAttribute('content',v)}
+function route(){
+var p=(location.hash||'#/').slice(1).split('?')[0],s=null;
+if(!R[p]&&p.charAt(0)!=='/'){s=p;p='/'}
+var r=R[p]||['Página não encontrada (404) | Juliana Fashion','A página que você procura não existe. Volte ao site da Juliana Fashion.','e404',0];
+document.querySelectorAll('.pg').forEach(function(e){e.classList.toggle('on',e.id===r[2])});
+document.title=r[0];meta('description',r[1]);meta('robots',r[3]?'index,follow':'noindex,follow');
+document.getElementById('crumbs').innerHTML=r[2]==='home'?'':'<a href="#/">Início</a> › '+(N[p]||'Página não encontrada');
+if(s){var t=document.getElementById(s);if(t)t.scrollIntoView()}else window.scrollTo(0,0);
+gtag('event','page_view',{page_title:r[0],page_path:p});
+}
+document.querySelectorAll('nav a[data-s]').forEach(function(a){a.addEventListener('click',function(e){e.preventDefault();if(location.hash&&location.hash!=='#/')location.hash='#/';setTimeout(function(){document.getElementById(a.dataset.s).scrollIntoView()},30)})});
+addEventListener('hashchange',route);route();
+document.getElementById('f').addEventListener('submit',function(e){e.preventDefault();gtag('event','generate_lead');location.hash='#/obrigado'});
+var D=['domingo','segunda-feira','terça-feira','quarta-feira','quinta-feira','sexta-feira','sábado'];
+var f=new Intl.DateTimeFormat('en-US',{timeZone:'America/Sao_Paulo',weekday:'short',hour:'numeric',minute:'numeric',hour12:false}).formatToParts(new Date()),o={};
+f.forEach(function(x){o[x.type]=x.value});
+var d=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'].indexOf(o.weekday),m=(+o.hour%24)*60+ +o.minute,h='';
+D.forEach(function(x,i){h+='<tr'+(i===d?' class="today"':'')+'><td>'+x+'</td><td>'+(i===0?'Fechado':'08:00–20:00')+'</td></tr>'});
+document.getElementById('hrs').innerHTML=h;
+var st=document.getElementById('status'),tx=document.getElementById('stt');
+if(d>0&&m>=480&&m<1200){st.className='open';tx.textContent='Aberto · fecha às 20:00'}
+else{st.className='closed';tx.textContent=(d>0&&m<480)||(d===6&&m<480)?'Fechado · abre às 08:00':(d===6&&m>=1200)?'Fechado · abre segunda às 08:00':'Fechado · abre amanhã às 08:00'}
+</script>
+</body>
+</html>
